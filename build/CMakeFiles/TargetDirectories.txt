@@ -1,6 +1,0 @@
-C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory/build/CMakeFiles/CMakePurgatory.dir
-C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory/build/CMakeFiles/edit_cache.dir
-C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory/build/CMakeFiles/rebuild_cache.dir
-C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory/build/Adder/CMakeFiles/adder.dir
-C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory/build/Adder/CMakeFiles/edit_cache.dir
-C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory/build/Adder/CMakeFiles/rebuild_cache.dir

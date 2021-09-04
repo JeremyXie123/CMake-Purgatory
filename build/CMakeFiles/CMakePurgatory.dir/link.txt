@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\CMakePurgatory.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc CMakeFiles\CMakePurgatory.dir/objects.a @CMakeFiles\CMakePurgatory.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\X86_64~2.EXE -g -Wl,--whole-archive CMakeFiles\CMakePurgatory.dir/objects.a -Wl,--no-whole-archive -o CMakePurgatory.exe -Wl,--out-implib,libCMakePurgatory.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CMakePurgatory.dir\linklibs.rsp
