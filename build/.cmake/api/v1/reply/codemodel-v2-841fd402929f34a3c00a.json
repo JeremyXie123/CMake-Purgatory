@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Adder",
+					"jsonFile" : "directory-Adder-Debug-c19ac4654958c829cd17.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21.2"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Adder",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "CMakePurgatory",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CMakePurgatory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CMakePurgatory-Debug-f41bd67b466c066e8c72.json",
+					"name" : "CMakePurgatory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "adder::@36d81fe119f19a617b06",
+					"jsonFile" : "target-adder-Debug-38f5d498420f1d47ecfc.json",
+					"name" : "adder",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory/build",
+		"source" : "C:/Users/bloor/Desktop/Programming-Projects/CMake-Purgatory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
